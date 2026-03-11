@@ -1,0 +1,12 @@
+Hello! This Document presents to the user, the step-by-step instructions for displaying the Airnav Webpage (User Interface) loaded in a Raspberry-Pi onto an External Display
+
+1. Open a Web Browser [for current implementation, the Chromium Browser is preferred]
+HOW TO OPEN A WEB BROWSER?
+	1. Click on the Raspberry-Pi icon on the Left-Top of the Scrren
+	2. Hover on the "Internet" Tab and Select "Chromium Browser"
+2. On Bookmarks i.e. the Left-Top of the New Blank Tab in the  Browser Window, the Link for a FEEDER STATION is available, Click on It
+3. The "AIRNAV" webpage opens up.
+4. Zoom Optimally
+5. Click on the "FULLSCREEN" button in the Bottom-Right of the Web-Page
+
+Congragulations! You have Successfully entered the page for viewing flights captured by your feeder station. View Flights! Enjoy!
